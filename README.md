@@ -23,7 +23,7 @@
   - No cookies or tracking technologies are used
 
   ## Contact
-  For questions about this privacy policy, contact: [your email]
+  For questions about this privacy policy, contact: charlie.king@duke.edu
 
   ---
 
