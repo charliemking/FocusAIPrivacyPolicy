@@ -1,6 +1,6 @@
   # FocusAI Privacy Policy
 
-  Last updated: [Current Date]
+  Last updated: 8/15/25
 
   Your Privacy Matters
   FocusAI is designed with privacy as a core principle. We do not collect, store, or transmit any of your personal data.
